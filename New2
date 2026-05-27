@@ -1,0 +1,7 @@
+# Игнорировать временные файлы Windows
+Thumbs.db
+desktop.ini
+
+# Игнорировать файлы Visual Studio
+.vs/
+*.user
